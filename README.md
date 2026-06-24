@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abhishek Anil Kumar 👋</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Application Developer</h3>
+<h3 align="center"> Aspiring Software Engineer | Full Stack Developer </h3>
 
 <p align="center">
   I am a focused and hardworking software engineer passionate about developing sustainable, effective applications that solve real-world problems. Whether it is building responsive web interfaces, designing carbon footprint tracking solutions using the MERN stack, or optimizing logic, I am constantly learning and improving my craft to meet user needs.
